@@ -4,7 +4,7 @@ A simple Flutter app that lets users rate their experience using an interactive 
 
 ## Preview
 
-https://github.com/DoaaAbdallah1/rate_experience_prototyping/blob/main/assets/images/final_compressed.mp4
+[Watch the app preview](https://github.com/DoaaAbdallah1/rate_experience_prototyping/blob/main/assets/images/final_compressed.mp4?utm_source=chatgpt.com)
 
 ## Features
 
